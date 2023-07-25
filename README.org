@@ -1,0 +1,10 @@
+* cl-tiled
+
+Tiled map library for CL
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Zulu-Inuoe/cl-tiled.git   |
+| commit  | c48ebf7  |
+| systems | cl-tiled |
+|---------+-------------------------------------------|
+
