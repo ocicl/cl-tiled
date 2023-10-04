@@ -2,9 +2,8 @@
 
 Tiled map library for CL
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/Zulu-Inuoe/cl-tiled.git   |
-| commit  | 3fff8a5  |
-| systems | cl-tiled |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------|
+| source  | git:https://github.com/Zulu-Inuoe/cl-tiled.git |
+| commit  | 25c7c88                                        |
+| systems | cl-tiled                                       |
+|---------+------------------------------------------------|
